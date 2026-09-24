@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956551403009",
+    "project_id": "quanlydanhsachsanpham",
+    "storage_bucket": "quanlydanhsachsanpham.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956551403009:android:cd81f23c9c6f930b545200",
+        "android_client_info": {
+          "package_name": "com.example.kiem_tra_giua_ky_nhom_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUVCaf6CpzA2q-ABubFe2M82gLDeVStw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956551403009:android:979eece8dd8f98ce545200",
+        "android_client_info": {
+          "package_name": "hcmute.edu.hungle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUVCaf6CpzA2q-ABubFe2M82gLDeVStw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
