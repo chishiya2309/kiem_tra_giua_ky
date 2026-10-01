@@ -21,9 +21,9 @@ class _MainScreenState extends State<MainScreen> {
   ];
 
   final List<String> _titles = const [
-    'Bán Hàng & Giỏ Hàng',
-    'Quản Lý Sản Phẩm & Kho',
-    'Thống Kê Doanh Thu & Lịch Sử',
+    'Bán hàng & giỏ hàng',
+    'Quản lý sản phẩm & kho',
+    'Thống kê doanh thu & lịch sử',
   ];
 
   @override
